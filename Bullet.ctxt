@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ Bullets\ damage\ and\ kill\ zombies\r\n\ \r\n\ @author\ Andrei\ Doroteo\r\n\ @version\ 2023-06-16\r\n
+comment1.params=direction
+comment1.target=Bullet(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ isTouchingBarrier()
+comment3.text=\r\n\ Checks\ if\ bullet\ is\ touching\ a\ barrier\ object\r\n
+numComments=4

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Zombie
+comment0.text=\r\n\ Zombies\ can\ damage\ and\ kill\ the\ player\r\n\ They\ move\ back\ and\ forth\ or\ up\ and\ down\ indefinitely\r\n\ \r\n\ @author\ Andrei\ Doroteo\r\n\ @version\ 2023-06-16\r\n
+comment1.params=velocity\ xLimit1\ xLimit2\ yLimit1\ yLimit2
+comment1.target=Zombie(int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkDamage()
+comment3.text=\r\n\ Handles\ zombie\ damage\r\n\ If\ damaged,\ zombie\ image\ flashes\ white\r\n
+comment4.params=
+comment4.target=void\ checkDirectionSwitch()
+comment4.text=\r\n\ Handles\ zombie\ trajectory\r\n
+comment5.params=course
+comment5.target=void\ moveDirection(int)
+comment5.text=\r\n\ Handles\ zombie\ movement\r\n
+comment6.params=
+comment6.target=void\ checkForDeath()
+comment6.text=\r\n\ Handles\ zombie\ death\r\n
+comment7.params=
+comment7.target=boolean\ isTouchingBarrier()
+comment7.text=\r\n\ Checks\ if\ zombie\ is\ touching\ a\ barrier\ object\r\n
+numComments=8
