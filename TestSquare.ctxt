@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=TestSquare
-comment0.text=\r\n\ TestSquare\ is\ used\ to\ test\ the\ coordinates\ of\ a\ spawn\ area\r\n\ \r\n\ @author\ Andrei\ Doroteo\r\n\ @version\ 2023-06-16\r\n
-comment1.params=
-comment1.target=TestSquare()
-comment2.params=
-comment2.target=void\ act()
-numComments=3
