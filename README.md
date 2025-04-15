@@ -10,9 +10,9 @@ This game requires installing the [Greenfoot IDE](https://www.greenfoot.org/door
 
 ## Overview
 
-This repository is an upload of a project created without the intial use of a version control system, therefore the git hitory does not contain the development of the codebase.
+This repository is an upload of a project created without the initial use of a version control system, therefore, the git history does not contain the development of the codebase.
 
-Apocalypse Escape has 5 unique levels created using a sprite based mapping system. The player must shoot and elimate all enemies in the current level to open the door to the next room.
+Apocalypse Escape has 5 unique levels created using a sprite-based mapping system. The player must shoot and eliminate all enemies in the current level to open the door to the next room.
 
 After finishing all 5 levels, the player wins the game.
 
